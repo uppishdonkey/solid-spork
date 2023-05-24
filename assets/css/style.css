@@ -1,0 +1,20 @@
+* {
+    background-color: lightblue;
+    font-family: "Arial";
+}
+
+header,footer {
+    height: 50px;
+    width: 100%;
+    line-height: 60px;
+    background-color: orange;
+}
+
+header {
+    position: fixed;
+    border-bottom: 10px solid darkblue;
+}
+
+#align-right {
+    text-align: right;
+}
